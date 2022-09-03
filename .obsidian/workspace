@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "15d76cffaef68bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b1f59805a3ed82",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8015b433fa03d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d0cc9a725a09d10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebfda96d8d6334d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "954611c97ccd03f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "15c94c134ca8284c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3f6051c34541871b",
+    "type": "split",
+    "children": [
+      {
+        "id": "43a2e848fb38d438",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978e113e7126383c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "71a5c2193cc1e534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88bb3fccc8f0fdf0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67072c7f540222bf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a30680f75f7dfd3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b6b1f59805a3ed82",
+  "lastOpenFiles": [
+    "Fall of the Idea of The Sovereign State.md",
+    "The Genealogy of the State.md",
+    "Attack on the Person of the State.md",
+    "The Person of the State.md",
+    "Populist view of the State.md",
+    "Absolutist View of The State.md",
+    "Auguste Comte and Positivism.md",
+    "The Founding Fathers of Sociology.md",
+    "Herbert Spencer.md",
+    "Developement of Sociology.md"
+  ]
+}
