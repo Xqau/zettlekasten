@@ -7,8 +7,12 @@
         "id": "b6b1f59805a3ed82",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Marx and Class Struggle.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3f6051c34541871b",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Marx and Class Struggle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Marx and Class Struggle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -111,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Marx and Class Struggle.md"
+              }
             }
           },
           {
@@ -129,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b6b1f59805a3ed82",
+  "active": "ebfda96d8d6334d9",
   "lastOpenFiles": [
+    "The Founding Fathers of Sociology.md",
+    "Developement of Sociology.md",
     "Fall of the Idea of The Sovereign State.md",
+    "Absolutist View of The State.md",
+    "Herbert Spencer.md",
     "The Genealogy of the State.md",
     "Attack on the Person of the State.md",
     "The Person of the State.md",
     "Populist view of the State.md",
-    "Absolutist View of The State.md",
-    "Auguste Comte and Positivism.md",
-    "The Founding Fathers of Sociology.md",
-    "Herbert Spencer.md",
-    "Developement of Sociology.md"
+    "Auguste Comte and Positivism.md"
   ]
 }

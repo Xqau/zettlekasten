@@ -5,6 +5,7 @@
 
 - [[Auguste Comte and Positivism]]
 - [[Herbert Spencer]]
+- [[Marx and Class Struggle]]
 
 ## References
 - PPT by DB Hota Sir
